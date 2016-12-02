@@ -1,0 +1,2 @@
+#!/bin/sh
+exabgp --folder /etc/exabgp /etc/exabgp/exabgp.conf
