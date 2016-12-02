@@ -14,7 +14,7 @@ docker run -d -v /opt/exabgp:/etc/exabgp biwhite/exabgp
 
 ## LOGS ##
 
-exabgp will log to stdout, so docker logs -f exabgp will let you view them.
+exabgp will log to stdout, so ```docker logs -f exabgp``` will let you view them.
 
 ## Notes ##
 
